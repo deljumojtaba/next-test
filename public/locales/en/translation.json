@@ -1,0 +1,14 @@
+{
+    "Hello": "Hello",
+    "goToChart": "Go To Chart",
+    "Home": "Home",
+    "ViewProfile": "View Profile",
+    "Logout":"Logout",
+    "OrganizationDetails":"Organization Details",
+    "OrganizationName":"Organization Name",
+    "IndustryType":"Industry Type",
+    "Country":"Country",
+    "Select an option to display details":"Select an option to display details",
+    "UserLogged":"User not logged in..."
+  }
+  
